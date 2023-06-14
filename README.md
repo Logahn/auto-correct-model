@@ -26,4 +26,4 @@ To use the spell checker, create an instance of the `SpellChecker` class with th
 
 ## Link
 
-Google colab file is located at https://colab.research.google.com/drive/1CtJaa1iswctjYda1T_18RywQSw1pRo92
+Google colab file can be found [here](https://colab.research.google.com/drive/1CtJaa1iswctjYda1T_18RywQSw1pRo92 "Link to Colab File") 
